@@ -2,15 +2,16 @@
 $background-color: #252525 !important;
 $font-color: #fff!important;
 
-body{
-    background: url("./assets/decisão-de-compra-de-eletrônicos-4.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    opacity: 0.95;
-}
 
+ body {
+        background-image: url("assets/decisão-de-compra-de-eletrônicos-4.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        opacity: 0.95;
+  }
+  
 .p-card{
     background-color: $background-color;
     color:$font-color;
